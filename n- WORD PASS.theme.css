@@ -1,0 +1,217 @@
+//META{"name":"⣿⠛⢻⣿⣿⣿⣿⠛⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⠀⠀⠙⢿⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⠀⢰⣄⠀⠻⣿⠀⢸⣿⣿⡿⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⠀⢸⣿⣦⡀⠈⠀⢸⣿⣿⣷⣤⣤⣤⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⠀⢸⣿⣿⣿⣆⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⣶⣾⣿⣿⣿⣿⣦⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⡟⠻⣿⣿⣿⣿⠟⢻⣿⣿⡿⠿⠿⣿⣿⣿⠟⠛⠿⠿⣿⣿⠁⢀⡈⠉⠙⢿⣿\n⣿⡇⠀⣿⣿⣿⣿⠀⢸⡟⠁⢀⣀⣀⠈⠹⡇⠀⣶⣤⡄⠈⣿⠀⢸⣿⣿⣦⠀⢻\n⣿⡇⠀⠟⢀⠈⢻⠀⢸⠀⠀⣿⣿⣿⠆⠀⡇⠀⠉⠉⢀⣰⣿⠀⢸⣿⣿⡿⠀⣸\n⣿⡇⠀⣠⣾⣷⡀⠀⢸⣦⡀⠈⠉⠉⢀⣰⡇⠀⣷⣤⡀⠙⣿⠀⢸⣿⠿⠁⢠⣿\n⣿⣷⠾⠛⠛⠻⠿⣷⣿⡿⠿⣿⣿⣿⡿⠿⢷⣴⣿⣿⡿⠶⠛⠤⣄⣀⣠⣴⣿⣿\n⣿⣿⠀⢰⣶⣦⠀⢸⡿⠁⠀⢹⣿⡏⢀⣤⣀⣿⣿⡟⠀⣠⣶⣤⣾⣿⣿⣿⣿⣿\n⣿⣿⠀⠘⠋⠁⣠⣾⠃⢠⡇⠀⢻⣧⣀⠉⠙⠛⢿⣧⣀⣀⠉⠙⢿⣿⣿⣿⣿⣿\n⣿⣿⠀⢰⣾⣿⣿⠇⢀⣠⣤⡄⠈⣿⣿⢿⣷⡆⠀⣿⣿⣿⡿⠆⢈⣿⣿⣿⣿⣿\n⣿⣿⣀⣼⣿⣿⣯⣀⣼⣿⣿⣿⣄⣸⣧⣄⣀⣀⣴⣿⡉⣀⣠⣤⣾⣿⣿⣿⣿⣿","description":"⣿⠛⢻⣿⣿⣿⣿⠛⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⠀⠀⠙⢿⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⠀⢰⣄⠀⠻⣿⠀⢸⣿⣿⡿⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⠀⢸⣿⣦⡀⠈⠀⢸⣿⣿⣷⣤⣤⣤⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⠀⢸⣿⣿⣿⣆⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⣶⣾⣿⣿⣿⣿⣦⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿\n⣿⡟⠻⣿⣿⣿⣿⠟⢻⣿⣿⡿⠿⠿⣿⣿⣿⠟⠛⠿⠿⣿⣿⠁⢀⡈⠉⠙⢿⣿\n⣿⡇⠀⣿⣿⣿⣿⠀⢸⡟⠁⢀⣀⣀⠈⠹⡇⠀⣶⣤⡄⠈⣿⠀⢸⣿⣿⣦⠀⢻\n⣿⡇⠀⠟⢀⠈⢻⠀⢸⠀⠀⣿⣿⣿⠆⠀⡇⠀⠉⠉⢀⣰⣿⠀⢸⣿⣿⡿⠀⣸\n⣿⡇⠀⣠⣾⣷⡀⠀⢸⣦⡀⠈⠉⠉⢀⣰⡇⠀⣷⣤⡀⠙⣿⠀⢸⣿⠿⠁⢠⣿\n⣿⣷⠾⠛⠛⠻⠿⣷⣿⡿⠿⣿⣿⣿⡿⠿⢷⣴⣿⣿⡿⠶⠛⠤⣄⣀⣠⣴⣿⣿\n⣿⣿⠀⢰⣶⣦⠀⢸⡿⠁⠀⢹⣿⡏⢀⣤⣀⣿⣿⡟⠀⣠⣶⣤⣾⣿⣿⣿⣿⣿\n⣿⣿⠀⠘⠋⠁⣠⣾⠃⢠⡇⠀⢻⣧⣀⠉⠙⠛⢿⣧⣀⣀⠉⠙⢿⣿⣿⣿⣿⣿\n⣿⣿⠀⢰⣾⣿⣿⠇⢀⣠⣤⡄⠈⣿⣿⢿⣷⡆⠀⣿⣿⣿⡿⠆⢈⣿⣿⣿⣿⣿\n⣿⣿⣀⣼⣿⣿⣯⣀⣼⣿⣿⣿⣄⣸⣧⣄⣀⣀⣴⣿⡉⣀⣠⣤⣾⣿⣿⣿⣿⣿","author":"A user#9868","version":"666"}*//{}
+
+:root {
+
+}
+
+/*
+⣿⠛⢻⣿⣿⣿⣿⠛⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⠀⠀⠙⢿⣿⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⠀⢰⣄⠀⠻⣿⠀⢸⣿⣿⡿⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⠀⢸⣿⣦⡀⠈⠀⢸⣿⣿⣷⣤⣤⣤⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⠀⢸⣿⣿⣿⣆⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣶⣾⣿⣿⣿⣿⣦⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⡟⠻⣿⣿⣿⣿⠟⢻⣿⣿⡿⠿⠿⣿⣿⣿⠟⠛⠿⠿⣿⣿⠁⢀⡈⠉⠙⢿⣿
+⣿⡇⠀⣿⣿⣿⣿⠀⢸⡟⠁⢀⣀⣀⠈⠹⡇⠀⣶⣤⡄⠈⣿⠀⢸⣿⣿⣦⠀⢻
+⣿⡇⠀⠟⢀⠈⢻⠀⢸⠀⠀⣿⣿⣿⠆⠀⡇⠀⠉⠉⢀⣰⣿⠀⢸⣿⣿⡿⠀⣸
+⣿⡇⠀⣠⣾⣷⡀⠀⢸⣦⡀⠈⠉⠉⢀⣰⡇⠀⣷⣤⡀⠙⣿⠀⢸⣿⠿⠁⢠⣿
+⣿⣷⠾⠛⠛⠻⠿⣷⣿⡿⠿⣿⣿⣿⡿⠿⢷⣴⣿⣿⡿⠶⠛⠤⣄⣀⣠⣴⣿⣿
+⣿⣿⠀⢰⣶⣦⠀⢸⡿⠁⠀⢹⣿⡏⢀⣤⣀⣿⣿⡟⠀⣠⣶⣤⣾⣿⣿⣿⣿⣿
+⣿⣿⠀⠘⠋⠁⣠⣾⠃⢠⡇⠀⢻⣧⣀⠉⠙⠛⢿⣧⣀⣀⠉⠙⢿⣿⣿⣿⣿⣿
+⣿⣿⠀⢰⣾⣿⣿⠇⢀⣠⣤⡄⠈⣿⣿⢿⣷⡆⠀⣿⣿⣿⡿⠆⢈⣿⣿⣿⣿⣿
+⣿⣿⣀⣼⣿⣿⣯⣀⣼⣿⣿⣿⣄⣸⣧⣄⣀⣀⣴⣿⡉⣀⣠⣤⣾⣿⣿⣿⣿⣿
+*/
+
+/*Code*/
+
+.theme-dark .inner-zqa7da{
+    transform: rotate3d(0, 1, 0, 180deg);
+}
+
+.channels-Ie2l6A {
+    background-color: red;
+    width: 240px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+}
+
+.container-PNkimc {
+    background: red;
+}
+
+.theme-dark .wrapper-1Rf91z, .theme-light .wrapper-1Rf91z {
+    background-color: blue;
+}
+
+*{
+    color: green !important;
+    font-family: "Comic Sans MS", cursive, sans-serif !important;
+    cursor: not-allowed !important;
+}
+
+*:active::after {
+    content: "pew";
+    color: red;
+}
+
+#app-mount{
+    background: orange !important;
+}
+
+.titleBar-AC4pGV:hover{
+    animation: oof 250s infinite;
+}
+
+.side-8zPYf6 .item-PXvHYJ, .theme-dark #bd-settings-sidebar .ui-tab-bar-item, .containerDefault-1ZnADq{
+    animation: oof 250ms infinite;
+}
+
+.emojiItem-109bjA, .emote-container{
+    animation: oof 250ms infinite;
+}
+
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper{
+    animation: oof 250ms infinite;
+}
+
+.theme-dark .closeButton-1tv5uR{
+    transition: transform 200ms;
+}
+
+.theme-dark .closeButton-1tv5uR:hover{
+    transform: translateY(100em);
+}
+
+.keybind-KpFkfr::before{
+    content: "PLEZZ ";
+}
+
+.keybind-KpFkfr::after{
+    content: " PLISSSSSS";
+}
+
+::-webkit-scrollbar {
+    width: 2em !important;
+}
+
+.unreadMentionsBar-1VrBNe:before {
+    content: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
+}
+
+.theme-dark .tooltipBlack-PPG47z, .theme-light .tooltipBlack-PPG47z {
+    animation: oof 250ms infinite;
+}
+
+.image-33JSyf, .wrapper-2F3Zv8{
+    width: 100px;
+    height: 100px;
+    z-index: -3;
+    animation: foo 250ms infinite;
+}
+
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .container-1r6BKw, .theme-dark .messagesWrapper-3lZDfY{
+    background: url("https://ctac.enderman.ch/stas.jpg") !important;
+}
+
+.theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline {
+    letter-spacing: 5em;
+}
+
+.bda-slist .bda-footer button {
+    background: url("https://ctac.enderman.ch/stas.jpg") !important;
+}
+
+html:after {
+    content: "LESTE ESTARTE UITE DIX FUQ";
+    background: linear-gradient(45deg, green,blue,red, yellow, green);;
+    left: 50%;
+    border-radius: 30px;
+    padding: 5px 15px;
+    transform: translate(-50%, -100%);
+    animation: themestarted 10s ease-in-out;
+    text-align: center;
+    position: absolute;
+    top: -1px;
+    height: auto;
+    width: auto;
+    z-index: 9997;
+    color: var(--maincolor);
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    box-shadow: 0px 0px 10px #000;
+}
+
+.theme-dark .contentRegion-3nDuYy {
+    background: transparent;
+}
+
+.theme-dark .standardSidebarView-3F1I7i {
+    background: transparent;
+}
+
+.theme-dark .sidebarRegion-VFTUkN {
+    background: linear-gradient(135deg, green,blue,red, yellow, green);;
+}
+
+.theme-dark .layer-3QrUeG, .theme-dark .layers-3iHuyZ {
+    background: linear-gradient(45deg, green,blue,red, yellow, green);;
+}
+
+.blobContainer-239gwq{
+    animation: foo 250ms infinite;
+}
+
+.theme-dark .markup-2BOw-j {
+    background-color: #000;
+    border: 3px red;
+    font-weight: 50px;
+    float: right;
+}
+
+.imageWrapper-2p5ogY{
+    transition: transform 3s;
+    z-index: 4;
+    border-radius: 50%;
+    animation: foo 250ms infinite;
+}
+
+.imageWrapper-2p5ogY:hover{
+    transform: scale(30);
+}
+
+.colorBrand-3pXr91{
+    background: url("https://ctac.enderman.ch/stas.jpg") !important;
+}
+
+.item-1GzJrl{
+    transition: transform 3s;
+    animation: foo 250ms infinite;
+}
+
+.item-1GzJrl:hover{
+    transform: scale(30);
+}
+
+/*animations*/
+
+@keyframes themestarted {
+    from, to {
+      transform: translate(-50%, -50%);
+      opacity: 0;
+    }
+    5%, 95% {
+      transform: translate(-50%, 1012%);
+      opacity: 1;
+    }
+  }
+
+@keyframes oof{
+    to{
+        transform: rotate(36000000deg);
+    }
+}
+
+@keyframes foo{
+    to{
+        transform: rotate(-36000000deg);
+    }
+}
