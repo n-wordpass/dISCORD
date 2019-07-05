@@ -1,4 +1,6 @@
 # dISCORD
+
+![B](preview.jpg)
 ## INSTRUCTIONDS
 
 oNE: %appdata%\BetterDiscord\themes
